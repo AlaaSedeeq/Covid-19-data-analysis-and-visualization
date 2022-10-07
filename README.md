@@ -2,9 +2,9 @@
 
 COVID-19 data collecting and exploratory analysis using SQL, Python, and Tableau.
 ## This project consists of three phases:
-- Data extraction and preparation using SQL queries, including creating new tables and views for the visualizations.
+- <a href="https://github.com/AlaaSedeeq/Covid-19-data-analysis-and-visualization/tree/main/SQL">Data extraction and preparation using SQL queries, including creating new tables and views for the visualizations.</a>
 - Data cleaning, exploration, and preprocessing using Python.
-- Tableau dashboard for the COVID-19 data.
+- <a href="https://github.com/AlaaSedeeq/Covid-19-data-analysis-and-visualization/tree/main/Tableau">Tableau dashboard for the COVID-19 data.</a>
 
 ## Followed steps:
 - Extracting the excel files, Deaths and Vaccinations.
